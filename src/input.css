@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme{
+  --font-display: "Rubik", sans-serif; 
+  --font-clock: "Orbitron", sans-serif;
+}
+
